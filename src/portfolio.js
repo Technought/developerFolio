@@ -396,7 +396,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "",
-  email_address: "nandan@technought.com"
+  email_address: "info@technought.com"
 };
 
 // Twitter Section
