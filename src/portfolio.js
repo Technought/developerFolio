@@ -40,6 +40,7 @@ const socialMediaLinks = {
   facebook: "",
   medium: "https://medium.com/@technought",
   stackoverflow: "",
+  credly: "https://www.credly.com/users/nandan-m.708f12b0",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
