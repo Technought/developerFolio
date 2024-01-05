@@ -5,6 +5,7 @@ import {skillsSection} from "../../portfolio";
 export default function SoftwareSkill() {
   return (
     <div>
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
       <div className="software-skills-main-div">
         <ul className="dev-icons">
           {skillsSection.softwareSkills.map((skills, i) => {
