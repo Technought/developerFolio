@@ -67,44 +67,72 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "terraform",
+      iconifyIcon: "cib:terraform"
     },
     {
-      skillName: "java",
-      fontAwesomeClassname: "fab fa-java"
+      skillName: "ansible",
+      iconifyIcon: "cib:ansible"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "jenkins",
+      iconifyIcon: "cib:docker"
+    },
+    {
+      skillName: "kubernetes",
+      iconifyIcon: "cib:kubernetes"
     },
     {
       skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      iconifyIcon: "cib:docker"
+    },
+    {
+      skillName: "aws",
+      iconifyIcon: "la:aws"
+    },
+    {
+      skillName: "azure",
+      iconifyIcon: "devicon-plain:azure"
+    },
+    {
+      skillName: "spring boot",
+      iconifyIcon: "simple-icons:springboot"
+    },
+    {
+      skillName: "spring",
+      iconifyIcon: "cib:spring"
+    },
+    {
+      skillName: "python",
+      iconifyIcon: "cib:python"
+    },
+    {
+      skillName: "java",
+      iconifyIcon: "cib:java"
     },
     {
       skillName: "Git",
-      fontAwesomeClassname: "fab fa-github"
+      iconifyIcon: "cib:git"
     },
     {
       skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      iconifyIcon: "cib:javascript"
     },
     {
       skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      iconifyIcon: "grommet-icons:reactjs"
     },
     {
       skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      iconifyIcon: "devicon-plain:nodejs"
     },
     {
       skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      iconifyIcon: "iconoir:npm"
     },
     {
-      skillName: "sql",
-      fontAwesomeClassname: "fas fa-database"
+      skillName: "postgresql",
+      iconifyIcon: "cib:postgresql"
     }
   ],
   display: true // Set false to hide this section, defaults to true
