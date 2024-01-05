@@ -165,10 +165,7 @@ const educationInfo = {
       subHeader: "M.Tech in Software Engineering",
       duration: "August 2021 - June 2023",
       desc: "",
-      descBullets: [
-        "",
-        ""
-      ]
+      descBullets: []
     },
     {
       schoolName: "Dayananda Sagar College of Engineering",
@@ -176,7 +173,7 @@ const educationInfo = {
       subHeader: "Bachelor of Engineering in Computer Science",
       duration: "July 2016 - August 2020",
       desc: "",
-      descBullets: [""]
+      descBullets: []
     }
   ]
 };
@@ -184,7 +181,7 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
+  viewSkillBars: false, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
@@ -273,7 +270,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
