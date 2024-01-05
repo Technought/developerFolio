@@ -14,7 +14,7 @@ export default function SoftwareSkill() {
                 className="software-skill-inline"
                 name={skills.skillName}
               >
-                <iconify-icon icon={skills.iconifyIcon} width="48" height="48"></i>
+                <iconify-icon icon={skills.iconifyIcon} width="48" height="48"></iconify-icon>
                 <p>{skills.skillName}</p>
               </li>
             );
