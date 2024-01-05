@@ -97,7 +97,7 @@ https://icon-sets.iconify.design/cib/docker/ */
     },
     {
       skillName: "kafka",
-      iconifyIcon: "skill-icons:kafka"
+      iconifyIcon: "mdi:apache-kafka"
     },
     {
       skillName: "rabbit mq",
