@@ -63,7 +63,7 @@ const skillsSection = {
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
+https://icon-sets.iconify.design/cib/docker/ */
 
   softwareSkills: [
     {
@@ -93,6 +93,18 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "azure",
       iconifyIcon: "devicon-plain:azure"
+    },
+    {
+      skillName: "kafka",
+      iconifyIcon: "skill-icons:kafka"
+    },
+    {
+      skillName: "rabbit mq",
+      iconifyIcon: "simple-icons:rabbitmq"
+    },
+    {
+      skillName: "twilio",
+      iconifyIcon: "cib:twilio"
     },
     {
       skillName: "spring boot",
@@ -133,6 +145,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "postgresql",
       iconifyIcon: "cib:postgresql"
+    },
+    {
+      skillName: "selenium",
+      iconifyIcon: "simple-icons:selenium"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -144,23 +160,23 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "National Institute of Technology Rourkela",
+      logo: require("./assets/images/NITR.png"),
+      subHeader: "M.Tech in Software Engineering",
+      duration: "August 2021 - June 2023",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "",
+        ""
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      schoolName: "Dayananda Sagar College of Engineering",
+      logo: require("./assets/images/DSCE.png"),
+      subHeader: "Bachelor of Engineering in Computer Science",
+      duration: "July 2016 - August 2020",
+      desc: "",
+      descBullets: [""]
     }
   ]
 };
