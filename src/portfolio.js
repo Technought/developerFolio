@@ -279,6 +279,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
+  url:"https://www.credly.com/users/nandan-m.708f12b0",
   subtitle:
     "Achievements, Certifications and Some Cool Stuff that I have done !",
 
@@ -286,7 +287,7 @@ const achievementSection = {
     {
       title: "AWS Certified Solutions Architect – Associate",
       subtitle:
-        "Earners of this certification have a comprehensive understanding of AWS services and technologies. They demonstrated the ability to build secure and robust solutions using architectural design principles based on customer requirements. Badge owners are able to strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.",
+        "",
       image: "https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png",
       imageAlt: "AWS Certified Solutions Architect – Associate",
       footerLink: [
@@ -299,7 +300,7 @@ const achievementSection = {
     {
       title: "AZ-900: Azure Fundamentals",
       subtitle:
-        "Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+        "",
       image: "https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png",
       imageAlt: "Azure Fundamentals",
       footerLink: [
@@ -312,7 +313,7 @@ const achievementSection = {
 
     {
       title: "AI-900: Azure AI Fundamentals",
-      subtitle: "Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.",
+      subtitle: "",
       image: "https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png",
       imageAlt: "Azure AI Fundamentals",
       footerLink: [
@@ -322,7 +323,7 @@ const achievementSection = {
     {
       title: "Applied Data Science I: Scientific Computing & Python",
       subtitle:
-        "Earners of this badge have completed a comprehensive introduction to scientific computing, Python, and related tools used by data scientists. They can use Python to read, clean, process, and analyze real-world data by following good programming practices such as using functions, choosing the appropriate data structures, and writing readable, maintainable code. To determine the statistical significance of the results of their analysis, they can apply statistical analysis and hypothesis testing.",
+        "",
       image: "https://images.credly.com/size/340x340/images/3a298084-44e8-4036-b82b-b92d0eca2491/WQU_Credly_DataScience1_WithHonors.png",
       imageAlt: "Applied Data Science I",
       footerLink: [
@@ -335,7 +336,7 @@ const achievementSection = {
     {
       title: "Applied Data Science II: Machine Learning & Statistical Analysis",
       subtitle:
-        "Earners of this badge are able to build machine learning models to make predictions on real-world data. They understand the best way to treat, clean, and encode data and how to choose the appropriate machine learning models for the task. They can properly tune the model to create a generalized model that performs well on both a training set and on out-of-sample data. They can build models using text and time series data. Earners are also proficient in using Python’s scikit-learn package.",
+        "",
       image: "https://images.credly.com/size/340x340/images/1ac74178-8974-426a-9f84-3b973bc5dc09/WQU_Credly_DataScience2_WithHonors.png",
       imageAlt: "Applied Data Science II",
       footerLink: [

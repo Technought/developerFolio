@@ -20,6 +20,7 @@ export default function Achievement() {
                   ? "dark-mode heading achievement-heading"
                   : "heading achievement-heading"
               }
+              href={achievementSection.url}
             >
               {achievementSection.title}
             </h1>
