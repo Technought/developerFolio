@@ -77,7 +77,7 @@ https://icon-sets.iconify.design/cib/docker/ */
     },
     {
       skillName: "jenkins",
-      iconifyIcon: "cib:docker"
+      iconifyIcon: "cib:jenkins"
     },
     {
       skillName: "kubernetes",
