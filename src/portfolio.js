@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "nandan@technought.com",
   gitlab: "",
   facebook: "",
-  medium: "https://medium.com/@technought",
+  medium: "",
   stackoverflow: "",
   credly: "https://www.credly.com/users/nandan-m.708f12b0",
   // Instagram, Twitter and Kaggle are also supported in the links!
